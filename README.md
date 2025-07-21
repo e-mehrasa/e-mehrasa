@@ -4,7 +4,8 @@
 Hello! I'm Erfan Mehrasa, a passionate developer with a love for coding and problem-solving. Feel free to explore my repositories and projects!
 
 ## CV Links
-- Link to [Russian CV](https://github.com/e-mehrasa/e-mehrasa/blob/main/Erfan%20Mehrasa%20CVru%20v2.7.pdf)
+- Link to [English CV](https://github.com/e-mehrasa/e-mehrasa/blob/main/Erfan%20Mehrasa%20CVen%20v3.pdf)
+- Link to [Russian CV](https://github.com/e-mehrasa/e-mehrasa/blob/main/Erfan%20Mehrasa%20CVru%20v3.pdf)
 
 ## Contact Me
 If you'd like to get in touch, feel free to reach out via [email](mailto:m2000erfan@gmail.com).
